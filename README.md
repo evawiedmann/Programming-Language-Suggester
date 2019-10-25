@@ -1,22 +1,18 @@
-# _{Application Name}_
+# _Find the Best Programming Language for You_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Programming Language Selector for New Programmers_
 
-#### By _**{List of contributors}**_
+#### By _**Eva Wiedmann**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This webpage helps the user choose which programming language will suit them best. The webpage takes in all relevant information and calculates what they should be learning if they want to be true to themselves._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _Install web browser_
+* _Download Bootstrap from [Bootstrap's website](https://getbootstrap.com/docs/3.3/)_
+* _Go to WEBPAGE_
 
 ## Known Bugs
 
@@ -24,11 +20,13 @@ _TBD_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_[Email](mailto:evawiedmann@gmail.com) Eva Wiedmann with any questions, comments, or suggestions. Any feedback is greatly appreciated._
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
-
+* _HTML_
+* _CSS_
+* _JavaScript_
+* _jQuery_
 
 Copyright (c) 2019 **_Eva Wiedmann_**
