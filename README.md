@@ -11,7 +11,7 @@ _This application helps the user choose which programming language will suit the
 ## Setup/Installation Requirements
 
 * _Install web browser_
-* _Download Bootstrap from [Bootstrap's website](https://getbootstrap.com/docs/3.3/)_
+* _Download Bootstrap and jQuery_
 * _Go to WEBPAGE_
 
 ## Known Bugs

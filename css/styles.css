@@ -1,3 +1,11 @@
+body{
+  text-align:
+}
+
 #young, #lucky, #ruby, #rust, #aplus, #java, #swift, #serpent {
+  display: none;
+}
+
+#colorOptions {
   display: none;
 }
