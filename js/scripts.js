@@ -20,30 +20,20 @@ $(document).ready(function() {
         if (student = yes) {
           $("#aplus").show();
         } else {
-
+          var coffee = prompt("Do you need some coffee?")
+          if (coffee = yes) {
+            $("#java").show();
+          } else {
+            var animal = prompt("Do you prefer birds or reptiles?")
+            if (animal = birds) {
+              $("#swift").show();
+            }
+          }
         }
-      } else {
-
       }
     }
-  }} else {
+  } else {
 
     $("#young").show();
   }
-
-
-
-  // }
-  // if (age >= 5) {
-    //   $("#older").prompt("Do you prefer initialisms or words?")
-    //   var wordsIn = prompt("Do you prefer initialisms or words?")
-    //   if (wordsIn = words){
-      //     $("#words").prompt("Do you prefer colors or animals?")
-      //   } else {
-        //     $("#initialisms").prompt("Choose a number:")
-        //     var number = prompt("Choose a number:")
-        //     if (number >= 14) {
-          //       $(#other)
-          //
-
-        });
+});
