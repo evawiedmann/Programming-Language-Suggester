@@ -4,16 +4,26 @@ $(document).ready(function() {
     event.preventDefault();
     var item = $("#words").val();
     if (item = 1) {
-      $("#information").show();
+      $("#basics").show();
     } else {
       $("#alphabet").show();
     }
   });
 
-
-  $("form#information").submit(function(event){
+  $("form#colorOptions").submit(function(event){
     event.preventDefault();
-    var item = $("#information").val();
+    var item = $("#color").val();
+    if (item = 1) {
+      $("#jewel").show();
+    } else {
+      $("#earth").show();
+    }
+  });
+
+
+  $("form#basics").submit(function(event){
+    event.preventDefault();
+    var item = $("#basics").val();
     if (item = 1) {
       $("#animalOptions").show();
     } else {
