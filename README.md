@@ -12,7 +12,7 @@ _This application helps the user choose which programming language will suit the
 
 * _Install web browser_
 * _Download Bootstrap and jQuery_
-* _Go to WEBPAGE_
+* _Go to https://evawiedmann.github.io/Programming-Language-Suggester/_
 
 ## Known Bugs
 
