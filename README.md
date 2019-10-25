@@ -6,7 +6,7 @@
 
 ## Description
 
-_This webpage helps the user choose which programming language will suit them best. The webpage takes in all relevant information and calculates what they should be learning if they want to be true to themselves._
+_This application helps the user choose which programming language will suit them best. The application takes in all relevant information and calculates what they should be learning if they want to be true to themselves._
 
 ## Setup/Installation Requirements
 

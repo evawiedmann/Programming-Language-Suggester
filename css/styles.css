@@ -6,6 +6,6 @@ h1{
   text-decoration: underline;
 }
 
-#younger, #older {
+#younger {
   display: none;
 }
