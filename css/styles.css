@@ -2,10 +2,6 @@ body{
   text-align:
 }
 
-#young, #lucky, #ruby, #rust, #aplus, #java, #swift, #python {
-  display: none;
-}
-
-#colorOptions, #animalOptions, #basics, #alphabetOptions {
+#python, #ruby, #java {
   display: none;
 }

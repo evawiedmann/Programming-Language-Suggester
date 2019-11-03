@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html >
 <head>
   <title>Programming Language Suggester</title>
   <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
@@ -8,27 +8,49 @@
   <script src="js/scripts.js"></script>
 </head>
 <body>
-<h1>What should you be learning?</h1>
-  <div id="young">
-    <h3>Give it a few years!</h3>
-  </div>
-  <div id="lucky">
-    Well, aren't you lucky! Your probably don't need this!
-  </div>
-  <div id="rust">
-    You should study <strong>Rust</strong>!
+  <h1 class="jumbotron">What should you be learning?</h1>
+  <div class="container">
+    <form id="questions">
+        <div class="form-group">
+          <label>Favorite Color:</label>
+          <select class="form-control" id="color">
+            <option value=1>Blue</option>
+            <option value=2>Yellow</option>
+            <option value=3>Red</option>
+          </select>
+          <label>Favorite Food:</label>
+          <select class="form-control" id="food">
+            <option value=1>Pizza</option>
+            <option value=2>Ice Cream</option>
+            <option value=3>Salad</option>
+          </select>
+          <label>Favorite Sport:</label>
+          <select class="form-control" id="sport">
+            <option value=1>Soccer</option>
+            <option value=2>Baseball</option>
+            <option value=3>Football</option>
+          </select>
+          <label>Favorite Animal:</label>
+          <select class="form-control" id="animal">
+            <option value=1>Dog</option>
+            <option value=2>Cat</option>
+            <option value=3>Bird</option>
+          </select>
+          <label>Favorite Weather:</label>
+          <select class="form-control" id="weather">
+            <option value=1>Sun</option>
+            <option value=2>Rain</option>
+            <option value=3>Snow</option>
+          </select>
+        <button type="submit">Submit</button>
+      </div>
+    </form>
   </div>
   <div id="python">
     You should study <strong>Python</strong>!
   </div>
-  <div id="swift">
-    You should study <strong>Swift</strong>!
-  </div>
   <div id="java">
     You should study <strong>Java</strong>!
-  </div>
-  <div id="aplus">
-    You should study <strong>A+</strong>!
   </div>
   <div id="ruby">
     You should study <strong>Ruby</strong>!
